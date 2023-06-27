@@ -1,0 +1,15 @@
+C:\Users\prive\Desktop\Разработчик Дима\Курс_Знакомство с языками программирования\C#\HomeWork_Seminar3\task19\bin\Debug\net6.0\task19.exe
+C:\Users\prive\Desktop\Разработчик Дима\Курс_Знакомство с языками программирования\C#\HomeWork_Seminar3\task19\bin\Debug\net6.0\task19.deps.json
+C:\Users\prive\Desktop\Разработчик Дима\Курс_Знакомство с языками программирования\C#\HomeWork_Seminar3\task19\bin\Debug\net6.0\task19.runtimeconfig.json
+C:\Users\prive\Desktop\Разработчик Дима\Курс_Знакомство с языками программирования\C#\HomeWork_Seminar3\task19\bin\Debug\net6.0\task19.dll
+C:\Users\prive\Desktop\Разработчик Дима\Курс_Знакомство с языками программирования\C#\HomeWork_Seminar3\task19\bin\Debug\net6.0\task19.pdb
+C:\Users\prive\Desktop\Разработчик Дима\Курс_Знакомство с языками программирования\C#\HomeWork_Seminar3\task19\obj\Debug\net6.0\task19.csproj.AssemblyReference.cache
+C:\Users\prive\Desktop\Разработчик Дима\Курс_Знакомство с языками программирования\C#\HomeWork_Seminar3\task19\obj\Debug\net6.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prive\Desktop\Разработчик Дима\Курс_Знакомство с языками программирования\C#\HomeWork_Seminar3\task19\obj\Debug\net6.0\task19.AssemblyInfoInputs.cache
+C:\Users\prive\Desktop\Разработчик Дима\Курс_Знакомство с языками программирования\C#\HomeWork_Seminar3\task19\obj\Debug\net6.0\task19.AssemblyInfo.cs
+C:\Users\prive\Desktop\Разработчик Дима\Курс_Знакомство с языками программирования\C#\HomeWork_Seminar3\task19\obj\Debug\net6.0\task19.csproj.CoreCompileInputs.cache
+C:\Users\prive\Desktop\Разработчик Дима\Курс_Знакомство с языками программирования\C#\HomeWork_Seminar3\task19\obj\Debug\net6.0\task19.dll
+C:\Users\prive\Desktop\Разработчик Дима\Курс_Знакомство с языками программирования\C#\HomeWork_Seminar3\task19\obj\Debug\net6.0\refint\task19.dll
+C:\Users\prive\Desktop\Разработчик Дима\Курс_Знакомство с языками программирования\C#\HomeWork_Seminar3\task19\obj\Debug\net6.0\task19.pdb
+C:\Users\prive\Desktop\Разработчик Дима\Курс_Знакомство с языками программирования\C#\HomeWork_Seminar3\task19\obj\Debug\net6.0\task19.genruntimeconfig.cache
+C:\Users\prive\Desktop\Разработчик Дима\Курс_Знакомство с языками программирования\C#\HomeWork_Seminar3\task19\obj\Debug\net6.0\ref\task19.dll
