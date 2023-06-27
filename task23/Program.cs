@@ -6,30 +6,25 @@
 */
 void Cube (int number)
 {
-int count = 1;
-while (count <= number)
+    int count = 1;
+    if (number > 0)
     {
-        Console.Write ($"{count*count*count} ");
-        count++;
+        while (count <= number)
+            {
+                Console.Write ($"{count*count*count} ");
+                count++;
+            }
     }
-}
-void CubeNeg (int number)
-{
-int count = 1;
-while (count >= number)
+    else
     {
-        Console.Write ($"{count*count*count} ");
-        count--;
+        while (count >= number)
+            {
+                Console.Write ($"{count*count*count} ");
+                count--;
+            }
     }
 }
 Console.Write ("Input your number: ");
 int num = Convert.ToInt32 (Console.ReadLine ());
 
-if (num >0)
-{
 Cube (num);
-}
-else
-{
-CubeNeg (num);
-}
